@@ -2,6 +2,7 @@
 
 [Home](index.md) | [Projects](projects.md) | [Achievements](achievements.md) | [Education](education.md) | [Work Experience](work-experience.md) | [Skills](skills.md) | [Certifications](certifications.md)
 
+
 ## 🎓 MBA in Project Management
 - [University Name], [Year]
 - Specialized in project planning, risk management, and agile methodologies
